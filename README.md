@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=nikhilverma360&label=I'm+watching+you!+Profile+view+count)
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **CryptoChai**
 
-- 🌱 I’m currently learning **AR Core**
+- 🌱 I’m currently learning **Blockchain Web3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilverma360](https://github.com/nikhilverma360)
 
