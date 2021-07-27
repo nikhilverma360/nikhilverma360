@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **nv5475609@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kNeIEs7n0oGRYTYho-NFcajmiPTT6Kya/view?usp=sharing](https://drive.google.com/file/d/1kNeIEs7n0oGRYTYho-NFcajmiPTT6Kya/view?usp=sharing)
-
 - ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
 
 <h3 align="left">Connect with me:</h3>
