@@ -5,15 +5,13 @@
 
 ![](https://komarev.com/ghpvc/?username=nikhilverma360&label=I'm+watching+you!+Profile+view+count)
 
-- 🔭 I’m currently working on **CryptoChai**
+- 🔭 I’m currently working on **GameFI**
 
-- 🌱 I’m currently learning **Blockchain Web3.0**
+- 🌱 I’m currently learning **Blockchain, Web3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilverma360](https://github.com/nikhilverma360)
 
-- 💬 Ask me about **android, bot automation, entrepreneurship**
-
-- 📫 How to reach me **nv5475609@gmail.com**
+- 💬 Ask me about **Blockchain, Web3.0**
 
 - ⚡ Fun fact **Did you know how many total programming languages? – it’s 698.**
 
@@ -21,9 +19,4 @@
 <p align="left">
 <a href="https://twitter.com/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikhilverma360" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhilverma360" height="30" width="40" /></a>
-<a href="https://fb.com/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nikhilverma360" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikhilverma360" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilverma360&show_icons=true&locale=en&layout=compact" alt="nikhilverma360" /></p>
