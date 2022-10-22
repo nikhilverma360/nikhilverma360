@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact : **The first programmer was the daughter of a mad poet.**
 \
-<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&redirect=true)
 
