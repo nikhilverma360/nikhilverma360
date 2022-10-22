@@ -1,6 +1,6 @@
 ![FfrIL2ZaAAA2r9N](https://user-images.githubusercontent.com/32412967/197353546-e275470c-af57-47ae-91be-53198e011763.jpeg)
 
-<h1 align="center">Wellcome to <i>ftNikhil.eth</i>'s place</h1>
+<h1 align="center">Welcome to <i>ftNikhil.eth</i>'s place</h1>
 
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
@@ -19,16 +19,10 @@
 
 - ⚡ Fun fact : **The first programmer was the daughter of a mad poet.**
 
-
+\
+\
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&redirect=true)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikhilverma360" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilverma360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhilverma360" height="30" width="40" /></a>
-</p>
-# 💫 About Me:
-Web3
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 
 
 ## 🌐 Socials:
@@ -44,9 +38,4 @@ Web3
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilverma360&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=nikhilverma360&icon=6&color=1)](https://visitcount.itsvg.in)
 
