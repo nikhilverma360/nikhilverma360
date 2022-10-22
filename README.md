@@ -7,7 +7,7 @@
 **Profile Visits**\
 ![Visitor Count](https://profile-counter.glitch.me/nikhilverma360/count.svg)
 
-- 🔭 I’m currently working on **GameFI**
+- 🔭 I’m currently working on **Web3 Social Identity Manager**
 
 - 🌱 I’m currently learning **Blockchain, Web3.0**
 
@@ -16,11 +16,10 @@
 - 💬 Ask me about **Blockchain, Web3.0**
 
 - ⚡ Fun fact : **The first programmer was the daughter of a mad poet.**
-
 \
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&redirect=true)
 <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31elahlzvcavbw657c3vxkr42zsa&redirect=true)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ftNikhil.eth#4060) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ftnikhil.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilverma360) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhilverma360) 
@@ -31,11 +30,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilverma360&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilverma360&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
+|----------------------------------|----------------------------|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=nikhilverma360&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)|
 
+|  Contribution Stats  |
+|----------------------|
+|![](./profile-3d-contrib/profile-night-rainbow.svg)|
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 
