@@ -1,4 +1,4 @@
-![FfrIL2ZaAAA2r9N](https://user-images.githubusercontent.com/32412967/197353546-e275470c-af57-47ae-91be-53198e011763.jpeg)
+![metavderse-gambling-guide-banner](https://user-images.githubusercontent.com/32412967/208288605-6b9dd58f-7d39-4452-9a27-471bf1f47e7d.jpg)
 
 <h1 align="center">Welcome to <i>ftNikhil.eth</i>'s place</h1>
 
