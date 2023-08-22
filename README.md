@@ -7,15 +7,13 @@
 **Profile Visits**\
 ![Visitor Count](https://profile-counter.glitch.me/nikhilverma360/count.svg)
 
-- 🔭 I’m currently working on **Web3 Social Identity Manager**
+- 🔭 I’m currently working on **Web3 Social **
 
 - 🌱 I’m currently learning **Blockchain, Web3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilverma360](https://github.com/nikhilverma360)
 
 - 💬 Ask me about **Blockchain, Web3.0**
-
-- ⚡ Fun fact : **The first programmer was the daughter of a mad poet.**
 \
 <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
