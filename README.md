@@ -8,9 +8,7 @@
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
 
-- 🔭 I’m currently working on **Web3 Social **
-
-- 🌱 I’m currently learning **Blockchain, Web3.0**
+- 🔭 I’m currently working on **Web3 Social,Zero-Knowledge Proofs, ZK-Rollups**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhilverma360](https://github.com/nikhilverma360)
 
